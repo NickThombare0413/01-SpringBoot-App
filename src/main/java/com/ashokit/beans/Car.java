@@ -6,4 +6,10 @@ public class Car {
    {
 	   //car started
    }
+
+   public void stop()
+{
+   //car stop
+
+}
 }
