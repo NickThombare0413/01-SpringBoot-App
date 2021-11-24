@@ -14,6 +14,8 @@ private static final String REST_URL="https://www.equifax.com/getScores";
 
 public void loadDataToCache()
 {
+int x=10;
+int y=20;
 }
 
 }
