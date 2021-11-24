@@ -24,7 +24,7 @@ public class EmailSending {
       properties.setProperty("mail.smtp.host", host);
  
       // creating session object to get properties
-      Session session = Session.getDefaultInstance(properties);
+ 
     
      }
 }
