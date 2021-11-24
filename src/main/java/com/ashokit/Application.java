@@ -16,4 +16,8 @@ public void loadDataToCache()
 {
 }
 
+public void loadDataToCache2()
+{
+}
+
 }
